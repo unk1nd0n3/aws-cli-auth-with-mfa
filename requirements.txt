@@ -1,0 +1,4 @@
+logging
+boto3
+botocore
+argparse
